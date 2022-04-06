@@ -1,7 +1,5 @@
 ### Hi there 👋, My Name is Aum!
 #### I am a photographer and finance student
-![I am a photographer and finance student](https://www.pixelstalk.net/wp-content/uploads/images1/Canon-wallpaper-camera-retro-desktop-photography-wallpapers.jpg)
-
 I'm working on expanding my skills on knowledge outside of the business world by building upon my knowledge in computer science. 
 
 Skills: JAVA / PYTHON
