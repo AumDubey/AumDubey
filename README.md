@@ -2,8 +2,11 @@
 #### I am a photographer and finance student
 I'm working on expanding my skills on knowledge outside of the business world by building upon my knowledge in computer science. 
 
-Skills: JAVA / PYTHON
+### Skills: 
+* 🍫 JAVA
+* 🐍 PYTHON
 
+### What else
 - 🌱 I’m currently learning AWS 
 - ⚡ Fun fact: I know 50 digits of Pi 
 
