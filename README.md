@@ -12,8 +12,8 @@ I'm working on expanding my skills on knowledge outside of the business world by
 
 ### Examples of work
 
-<img src="https://github.com/AumDubey/AumDubey/blob/main/IMG_0057.jpg" width="256" />     <img src="https://github.com/AumDubey/AumDubey/blob/main/IMG_0073.jpg" width="256" />     <img src="https://github.com/AumDubey/AumDubey/blob/main/IMG_0280%20(1).jpg" width= "256" />
-     
+<img src="https://github.com/AumDubey/AumDubey/blob/main/IMG_0057.jpg" width="250" /><img src="https://github.com/AumDubey/AumDubey/blob/main/IMG_0073.jpg" width="250" /><img src="https://github.com/AumDubey/AumDubey/blob/main/IMG_0280%20(1).jpg" width= "250" /><img src="https://github.com/AumDubey/AumDubey/blob/main/IMG_0475.jpg" width= "250" />
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AumDubey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aum-dubey-6992221a2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/aum1k//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shotbyaum1k.pixieset.com/)  
 
 ![Profile views](https://gpvc.arturio.dev/AumDubey)  
